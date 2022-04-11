@@ -1,0 +1,11 @@
+.attempt_sel {
+    border: 1px solid #469fff;
+    padding: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #469fff;
+}
+
+.attempt {
+    color: #469fff;
+}
